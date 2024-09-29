@@ -1,0 +1,14 @@
+C:\Users\konyang\source\repos\007_primMst_st\007_primMst_st\obj\Debug\net8.0\007_primMst_st.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konyang\source\repos\007_primMst_st\007_primMst_st\obj\Debug\net8.0\007_primMst_st.AssemblyInfoInputs.cache
+C:\Users\konyang\source\repos\007_primMst_st\007_primMst_st\obj\Debug\net8.0\007_primMst_st.AssemblyInfo.cs
+C:\Users\konyang\source\repos\007_primMst_st\007_primMst_st\obj\Debug\net8.0\007_primMst_st.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\007_primMst_st\007_primMst_st\bin\Debug\net8.0\007_primMst_st.exe
+C:\Users\konyang\source\repos\007_primMst_st\007_primMst_st\bin\Debug\net8.0\007_primMst_st.deps.json
+C:\Users\konyang\source\repos\007_primMst_st\007_primMst_st\bin\Debug\net8.0\007_primMst_st.runtimeconfig.json
+C:\Users\konyang\source\repos\007_primMst_st\007_primMst_st\bin\Debug\net8.0\007_primMst_st.dll
+C:\Users\konyang\source\repos\007_primMst_st\007_primMst_st\bin\Debug\net8.0\007_primMst_st.pdb
+C:\Users\konyang\source\repos\007_primMst_st\007_primMst_st\obj\Debug\net8.0\007_primMst_st.dll
+C:\Users\konyang\source\repos\007_primMst_st\007_primMst_st\obj\Debug\net8.0\refint\007_primMst_st.dll
+C:\Users\konyang\source\repos\007_primMst_st\007_primMst_st\obj\Debug\net8.0\007_primMst_st.pdb
+C:\Users\konyang\source\repos\007_primMst_st\007_primMst_st\obj\Debug\net8.0\007_primMst_st.genruntimeconfig.cache
+C:\Users\konyang\source\repos\007_primMst_st\007_primMst_st\obj\Debug\net8.0\ref\007_primMst_st.dll
