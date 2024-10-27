@@ -1,0 +1,16 @@
+C:\Users\82102\Desktop\ㅇㄱㄹㅈ\005_Sort\bin\Debug\005_Sort.exe.config
+C:\Users\82102\Desktop\ㅇㄱㄹㅈ\005_Sort\bin\Debug\005_Sort.exe
+C:\Users\82102\Desktop\ㅇㄱㄹㅈ\005_Sort\bin\Debug\005_Sort.pdb
+C:\Users\82102\Desktop\ㅇㄱㄹㅈ\005_Sort\obj\Debug\005_Sort.csproj.AssemblyReference.cache
+C:\Users\82102\Desktop\ㅇㄱㄹㅈ\005_Sort\obj\Debug\005_Sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\82102\Desktop\ㅇㄱㄹㅈ\005_Sort\obj\Debug\MainWindow.g.cs
+C:\Users\82102\Desktop\ㅇㄱㄹㅈ\005_Sort\obj\Debug\App.g.cs
+C:\Users\82102\Desktop\ㅇㄱㄹㅈ\005_Sort\obj\Debug\005_Sort_MarkupCompile.cache
+C:\Users\82102\Desktop\ㅇㄱㄹㅈ\005_Sort\obj\Debug\005_Sort_MarkupCompile.lref
+C:\Users\82102\Desktop\ㅇㄱㄹㅈ\005_Sort\obj\Debug\MainWindow.baml
+C:\Users\82102\Desktop\ㅇㄱㄹㅈ\005_Sort\obj\Debug\005_Sort.g.resources
+C:\Users\82102\Desktop\ㅇㄱㄹㅈ\005_Sort\obj\Debug\_005_Sort.Properties.Resources.resources
+C:\Users\82102\Desktop\ㅇㄱㄹㅈ\005_Sort\obj\Debug\005_Sort.csproj.GenerateResource.cache
+C:\Users\82102\Desktop\ㅇㄱㄹㅈ\005_Sort\obj\Debug\005_Sort.csproj.CoreCompileInputs.cache
+C:\Users\82102\Desktop\ㅇㄱㄹㅈ\005_Sort\obj\Debug\005_Sort.exe
+C:\Users\82102\Desktop\ㅇㄱㄹㅈ\005_Sort\obj\Debug\005_Sort.pdb
