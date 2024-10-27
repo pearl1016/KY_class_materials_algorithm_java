@@ -1,8 +1,0 @@
-C:\Users\82102\source\repos\FibonacciDP\FibonacciDP\bin\Debug\FibonacciDP.exe.config
-C:\Users\82102\source\repos\FibonacciDP\FibonacciDP\bin\Debug\FibonacciDP.exe
-C:\Users\82102\source\repos\FibonacciDP\FibonacciDP\bin\Debug\FibonacciDP.pdb
-C:\Users\82102\source\repos\FibonacciDP\FibonacciDP\obj\Debug\FibonacciDP.csproj.AssemblyReference.cache
-C:\Users\82102\source\repos\FibonacciDP\FibonacciDP\obj\Debug\FibonacciDP.csproj.SuggestedBindingRedirects.cache
-C:\Users\82102\source\repos\FibonacciDP\FibonacciDP\obj\Debug\FibonacciDP.csproj.CoreCompileInputs.cache
-C:\Users\82102\source\repos\FibonacciDP\FibonacciDP\obj\Debug\FibonacciDP.exe
-C:\Users\82102\source\repos\FibonacciDP\FibonacciDP\obj\Debug\FibonacciDP.pdb
