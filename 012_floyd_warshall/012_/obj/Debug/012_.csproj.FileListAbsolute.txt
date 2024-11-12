@@ -1,0 +1,8 @@
+C:\Users\82102\source\repos\012_\012_\bin\Debug\012_.exe.config
+C:\Users\82102\source\repos\012_\012_\bin\Debug\012_.exe
+C:\Users\82102\source\repos\012_\012_\bin\Debug\012_.pdb
+C:\Users\82102\source\repos\012_\012_\obj\Debug\012_.csproj.AssemblyReference.cache
+C:\Users\82102\source\repos\012_\012_\obj\Debug\012_.csproj.SuggestedBindingRedirects.cache
+C:\Users\82102\source\repos\012_\012_\obj\Debug\012_.csproj.CoreCompileInputs.cache
+C:\Users\82102\source\repos\012_\012_\obj\Debug\012_.exe
+C:\Users\82102\source\repos\012_\012_\obj\Debug\012_.pdb
